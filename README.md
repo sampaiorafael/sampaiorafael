@@ -7,11 +7,11 @@
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sampaiorafael&count_private=true&show_icons=true&theme=radical" />   
-</a>     
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiorafael&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sampaiorafael&count_private=true&show_icons=true&theme=radical" />
+</a> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiorafael&theme=radical" />
 </a>
 
 
