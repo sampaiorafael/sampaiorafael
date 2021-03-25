@@ -1,6 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/52518797/112150459-e19ad580-8bbe-11eb-86a4-3dc02d489ae7.png)   
 
-[![Visits Badge](https://badges.pufler.dev/visits/sampaiorafael/git-badges)](https://badges.pufler.dev)   
 [![Years Badge](https://badges.pufler.dev/years/sampaiorafael)](https://badges.pufler.dev)   
 
 ### Main Skills :nerd_face:
