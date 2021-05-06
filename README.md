@@ -35,11 +35,21 @@
 
 ### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sampaiorafael&count_private=true&show_icons=true&theme=radical" />
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiorafael&langs_count=3&theme=radical" />
-</a>
+<p align="justify">
+  
+  <a href="https://github.com/sampaiorafael/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=sampaiorafael&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+  
+   <a href="https://github.com/sampaiorafael/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiorafael&layout=compact&theme=radical" />
+  </a>  
+  
+</p>
 
 
