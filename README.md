@@ -3,6 +3,7 @@
 [![Years Badge](https://badges.pufler.dev/years/sampaiorafael)](https://badges.pufler.dev)
 ![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=sampaiorafael.sampaiorafael)
 [![Codewars Badge](https://www.codewars.com/users/sampaiorafael/badges/micro)](https://www.codewars.com/users/sampaiorafael/badges/micro)
+![Profile Views](https://komarev.com/ghpvc/?username=sampaiorafael&color=blue)
 
 ### Main Skills
 
